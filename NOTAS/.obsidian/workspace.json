@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "df90ad5805fb8b2d",
+    "id": "77cff40fe066db1b",
     "type": "split",
     "children": [
       {
-        "id": "939113dc6bfafa69",
+        "id": "ff67dc3c93fb00ae",
         "type": "tabs",
         "children": [
           {
-            "id": "bb8d5a6f0fcb006d",
+            "id": "47fadac79b432975",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Módulos/WEB/Seguridad web.md",
+                "file": "PortSwigger Academy/API testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seguridad web"
+              "title": "API testing"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a82eb1136a6cbb46",
+    "id": "926563d43170329d",
     "type": "split",
     "children": [
       {
-        "id": "e5ae50d7ce975329",
+        "id": "e2f778ba6258e3f1",
         "type": "tabs",
         "children": [
           {
-            "id": "ec23392543b6bcd3",
+            "id": "6434db73f1b490ae",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "b944d2af3dbeb6bc",
+            "id": "10a108392375eed3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,17 +61,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
-            "id": "cd380c1d43c2cb77",
+            "id": "ca36a829958a95b8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
@@ -81,15 +81,15 @@
     "width": 200
   },
   "right": {
-    "id": "c739a89b82e424ba",
+    "id": "62d443f06b1faf95",
     "type": "split",
     "children": [
       {
-        "id": "5b66a7c391f476df",
+        "id": "31db3f6c9aafd457",
         "type": "tabs",
         "children": [
           {
-            "id": "17bfb9a6f4ed0ebc",
+            "id": "cdc2a61875fba7b2",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,11 +103,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Enlaces entrantes"
             }
           },
           {
-            "id": "c16231f9ce13e3a3",
+            "id": "2938e14a09568fd6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,11 +116,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Enlaces salientes"
             }
           },
           {
-            "id": "a9e8fb3e7bddb4cf",
+            "id": "1438c9458c0b6817",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,21 +131,36 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "5df7a4bc6c41dece",
+            "id": "aa55e704378a82df",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "b40b4418cad9edf2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Sin título.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Esquema de Sin título"
             }
           }
         ]
@@ -166,20 +181,14 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "bb8d5a6f0fcb006d",
+  "active": "47fadac79b432975",
   "lastOpenFiles": [
-    "THM/Módulos/WEB/HTTP(S).md",
-    "THM/Módulos/WEB/DNS.md",
-    "THM/Módulos/WEB/Seguridad web.md",
-    "THM/Módulos/WEB/Servidores web.md",
-    "THM/Módulos/WEB",
-    "THM/Labs",
-    "THM/Notas",
-    "THM/Notas/DNS.md",
-    "THM",
-    "Untitled.canvas",
-    "Untitled.base",
-    "Welcome.md",
-    "create a link.md"
+    "PortSwigger Academy/LAB - API Exploitation usando documentación.md",
+    "PortSwigger Academy/API testing.md",
+    "PortSwigger Academy/API TESTING/Lab - Exploit a un endpoint de una API usando documentación.md",
+    "PortSwigger Academy/API TESTING",
+    "Ethical hacking-Hands on introduction",
+    "PortSwigger Academy",
+    "Sin título.md"
   ]
 }

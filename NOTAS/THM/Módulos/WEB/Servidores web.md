@@ -1,4 +1,0 @@
-Software que escucha peticiones y usa protocolos como HTTP/S para dar contenido web a los clientes. Los más comunes son Apache, Nginx, IIS yNodeJS. Un servidor web entrega archivos desde su directorio raíz, definido en la configuración del software (Ejemplo: Por defecto, en Apache y Nginx es /var/www/html en servidores Linux). 
-
-Los servidores web pueden alojar múltiples sitios web con diferentes nombres de dominio; para ello, utilizan hosts virtuales. El software del servidor web verifica el nombre de host solicitado en las cabeceras HTTP y lo compara con sus hosts virtuales (los hosts virtuales son simplemente archivos de configuración de texto). Si encuentra una coincidencia, se proporciona el sitio web correcto. Si no se encuentra ninguna coincidencia, se proporciona el sitio web predeterminado. 
-Los hosts virtuales pueden tener su directorio raíz asignado a diferentes ubicaciones en el disco duro.
